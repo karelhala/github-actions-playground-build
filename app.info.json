@@ -1,13 +1,13 @@
 {
   "app_name": "test",
-  "src_hash": "45ded20e5a217bc5edafe42369f071bc14b261e5",
+  "src_hash": "f8ab6151633202cc4768bcd3699b4af41c084794",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": [""],
   "rh_cloud_services_dependencies": [""],
   "travis": {
     "event_type": "",
-    "build_number": "1504480537",
+    "build_number": "1504489503",
     "build_web_url": ""
   }
 }
